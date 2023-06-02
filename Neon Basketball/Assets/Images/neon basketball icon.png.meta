@@ -1,22 +1,7 @@
 fileFormatVersion: 2
-guid: a6450e1a383883a479ba17c1887ca01e
+guid: 52594f35d6ac72f4b86ebc3fc3f40075
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -480026947694649183
-    second: near-buildings-bg_0
-  - first:
-      213: 1523336376783092178
-    second: near-buildings-bg_1
-  - first:
-      213: -6699097580721481067
-    second: near-buildings-bg_2
-  - first:
-      213: 1789158833055147444
-    second: near-buildings-bg_3
-  - first:
-      213: 5039068060066335562
-    second: near-buildings-bg_4
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -57,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -78,7 +63,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -154,112 +139,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: near-buildings-bg_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 85
-        height: 174
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a0ab0cc80a9659f0800000000000000
-      internalID: -480026947694649183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: near-buildings-bg_1
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 0
-        width: 77
-        height: 203
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d9369b1d5af32510800000000000000
-      internalID: 1523336376783092178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: near-buildings-bg_2
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 0
-        width: 101
-        height: 209
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 59ada616e360803a0800000000000000
-      internalID: -6699097580721481067
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: near-buildings-bg_3
-      rect:
-        serializedVersion: 2
-        x: 308
-        y: 0
-        width: 94
-        height: 162
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b52103ba7e54d810800000000000000
-      internalID: 1789158833055147444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: near-buildings-bg_4
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 0
-        width: 78
-        height: 173
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4b4547d3bd5ee540800000000000000
-      internalID: 5039068060066335562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -270,12 +150,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      near-buildings-bg_0: -480026947694649183
-      near-buildings-bg_1: 1523336376783092178
-      near-buildings-bg_2: -6699097580721481067
-      near-buildings-bg_3: 1789158833055147444
-      near-buildings-bg_4: 5039068060066335562
+    nameFileIdTable: {}
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
